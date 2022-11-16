@@ -4,4 +4,5 @@ Reto 2 Ciclo 4B Desarrollo Dispositivos Moviles
 Autor: Humberto Rosales
 
 # Demo
-<img src="https://github.com/Sanduqd1997/Conversor/blob/main/conversor.gif" width="300">
+<img src="https://github.com/Sanduqd1997/reto2/blob/main/Multimedia1-_1_.gif" width="300">
+https://github.com/Sanduqd1997/reto2/blob/main/Multimedia1-_1_.gif
